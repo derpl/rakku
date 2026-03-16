@@ -42,6 +42,7 @@ next-env.d.ts
 # credentials & secrets - CRITICAL FOR SECURITY
 *.key
 *.pem
+credentials
 *-credentials.json
 service-account.json
 **/.firebase/**
